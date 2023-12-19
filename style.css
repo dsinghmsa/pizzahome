@@ -18,3 +18,10 @@ body {
 footer {
   text-align: center;
 }
+
+hr {
+  height: 1px;
+  border-width: 0;
+  color: #5b6078;
+  background-color: #5b6078;
+}
